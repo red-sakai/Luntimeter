@@ -20,7 +20,7 @@ export const Platform = () => {
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             From planning to post-construction,{" "}
-            <span className="font-semibold text-emerald-500">VerdePM</span>{" "}
+            <span className="font-semibold text-emerald-500">Luntimeter</span>{" "}
             centralizes your workflows — enabling real-time monitoring, resource
             tracking, and ESG reporting for sustainable project success.
           </p>

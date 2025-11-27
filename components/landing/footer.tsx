@@ -24,7 +24,7 @@ export const Footer = () => {
           <div className="space-y-5 sm:col-span-2 lg:col-span-1">
             <Logo />
             <p className="text-sm text-muted-foreground max-w-xs leading-relaxed">
-              VerdePM empowers construction management with intelligent ESG
+              Luntimeter empowers construction management with intelligent ESG
               tracking — integrating sustainability, transparency, and
               performance in one platform.
             </p>
@@ -94,7 +94,7 @@ export const Footer = () => {
             </h3>
             <ul className="space-y-2 text-sm">
               {[
-                "About VerdePM",
+                "About Luntimeter",
                 "Our Team",
                 "Careers",
                 "Insights & Updates",
@@ -132,7 +132,7 @@ export const Footer = () => {
                     d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                <span>hello@verdepm.com</span>
+                <span>hello@Luntimeter.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <svg
@@ -171,7 +171,7 @@ export const Footer = () => {
                   />
                 </svg>
                 <span>
-                  45 Verde Avenue
+                  45 Lunti Avenue
                   <br />
                   San Francisco, CA 94105
                 </span>
@@ -185,7 +185,7 @@ export const Footer = () => {
 
         {/* Bottom Section */}
         <div className="flex flex-col sm:flex-row justify-between items-center text-sm text-muted-foreground gap-4">
-          <p>© {new Date().getFullYear()} VerdePM. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Luntimeter. All rights reserved.</p>
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
             {[
               "Privacy Policy",
