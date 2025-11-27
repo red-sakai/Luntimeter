@@ -186,7 +186,7 @@ export function OrganizationTab() {
             <Label htmlFor="parent-entity">Parent Entity</Label>
             <Input
               id="parent-entity"
-              placeholder="e.g., Luntimeter Holdings, Inc."
+              placeholder="e.g., Lunti Holdings, Inc."
               value={parentEntity}
               onChange={(event) => setParentEntity(event.target.value)}
               disabled={isLoading || isSaving}
@@ -226,7 +226,7 @@ export function OrganizationTab() {
               <Input
                 id="contact-email"
                 type="email"
-                placeholder="e.g., contact@luntimeter.com"
+                placeholder="e.g., contact@lunti.com"
                 value={contactEmail}
                 onChange={(event) => setContactEmail(event.target.value)}
                 disabled={isLoading || isSaving}

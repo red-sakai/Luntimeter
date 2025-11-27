@@ -21,7 +21,7 @@ export const Collaboration = () => {
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             No more scattered spreadsheets or endless email chains.{" "}
-            <span className="font-semibold text-emerald-500">Luntimeter</span>{" "}
+            <span className="font-semibold text-emerald-500">Lunti</span>{" "}
             enables real-time collaboration — uniting engineers, suppliers,
             environmental officers, and project managers in one platform.
           </p>

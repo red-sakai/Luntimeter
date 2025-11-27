@@ -14,7 +14,7 @@ export const ESG = () => {
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             ESG data doesn&apos;t have to be complicated.{" "}
-            <span className="text-emerald-500 font-semibold">Luntimeter</span>{" "}
+            <span className="text-emerald-500 font-semibold">Lunti</span>{" "}
             simplifies tracking by dividing metrics into three intuitive tabs.
           </p>
         </div>

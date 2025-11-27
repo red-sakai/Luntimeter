@@ -27,7 +27,7 @@ export function LoginPageContent() {
                                 Welcome Back
                             </h1>
                             <p className="mt-2 text-sm sm:text-base text-muted-foreground">
-                                Sign in to your Luntimeter account
+                                Sign in to your Lunti account
                             </p>
                         </div>
 

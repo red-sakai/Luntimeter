@@ -8,13 +8,13 @@ export const Logo = ({ className }: { className?: string }) => {
       <div className="rounded-2xl overflow-hidden">
         <Image
           src="/logo.svg"
-          alt="Luntimeter Logo"
+          alt="Lunti Logo"
           width={60}
           height={60}
           className="w-10 h-10 object-contain"
         />
       </div>
-      <span className="text-xl font-bold text-foreground">Luntimeter</span>
+      <span className="text-xl font-bold text-foreground">Lunti</span>
     </div>
   );
 };
