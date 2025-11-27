@@ -128,7 +128,7 @@ export function HelpModal({ open, onOpenChange }: HelpModalProps) {
               <div className="text-left">
                 <div className="font-semibold">Email Support</div>
                 <div className="text-xs text-muted-foreground">
-                  support@verdepm.com
+                  support@luntimeter.com
                 </div>
               </div>
             </Button>
