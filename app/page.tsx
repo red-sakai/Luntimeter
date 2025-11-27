@@ -10,7 +10,7 @@ import { Collaboration } from "@/components/landing/collaboration";
 import { Background } from "@/components/ui/background";
 
 export const metadata: Metadata = {
-  title: "Welcome to Luntimeter - Your Trusted Software Development Partner",
+  title: "Welcome to Lunti - Your Trusted Software Development Partner",
 };
 
 export default function Home() {

@@ -6,8 +6,8 @@ import { Logo } from "@/components/ui/logo";
 import { Background } from "@/components/ui/background";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Luntimeter",
-  description: "Privacy Policy for Luntimeter project management platform",
+  title: "Privacy Policy | Lunti",
+  description: "Privacy Policy for Lunti project management platform",
 };
 
 export default function PrivacyPage() {
@@ -33,7 +33,7 @@ export default function PrivacyPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
                 <p className="text-muted-foreground">
-                  Luntimeter ("we", "our", or "us") is committed to protecting your
+                  Lunti ("we", "our", or "us") is committed to protecting your
                   privacy. This Privacy Policy explains how we collect, use,
                   disclose, and safeguard your information when you use our
                   project management platform. Please read this privacy policy
@@ -105,7 +105,7 @@ export default function PrivacyPage() {
                   <li><strong>Service providers:</strong> Third-party vendors who perform services on our behalf (e.g., hosting, analytics, payment processing)</li>
                   <li><strong>Legal requirements:</strong> When required by law, regulation, or legal process</li>
                   <li><strong>Business transfers:</strong> In connection with a merger, sale, or acquisition</li>
-                  <li><strong>Protection:</strong> To protect the rights, property, or safety of Luntimeter, our users, or others</li>
+                  <li><strong>Protection:</strong> To protect the rights, property, or safety of Lunti, our users, or others</li>
                 </ul>
               </section>
 
@@ -134,7 +134,7 @@ export default function PrivacyPage() {
                   <li><strong>Withdraw consent:</strong> Withdraw previously given consent</li>
                 </ul>
                 <p className="text-muted-foreground mt-3">
-                  To exercise these rights, please contact us at privacy@luntimeter.com
+                  To exercise these rights, please contact us at privacy@lunti.com
                 </p>
               </section>
 
@@ -191,7 +191,7 @@ export default function PrivacyPage() {
                 <h2 className="text-2xl font-semibold mb-4">12. Governing Law</h2>
                 <p className="text-muted-foreground">
                   This Privacy Policy is governed by and construed in accordance with
-                  the laws of the jurisdiction in which Luntimeter operates, without
+                  the laws of the jurisdiction in which Lunti operates, without
                   regard to its conflict of law principles.
                 </p>
               </section>
@@ -203,8 +203,8 @@ export default function PrivacyPage() {
                   privacy practices, please contact us at:
                 </p>
                 <p className="text-muted-foreground">
-                  Email: privacy@luntimeter.com<br />
-                  Address: Luntimeter Privacy Team<br />
+                  Email: privacy@lunti.com<br />
+                  Address: Lunti Privacy Team<br />
                   [Your Company Address]
                 </p>
               </section>

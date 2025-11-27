@@ -23,7 +23,7 @@ export const Features = () => {
             Everything You Need in One Platform
           </h2>
           <p className="text-muted-foreground text-lg">
-            Designed for sustainability and efficiency — Luntimeter brings all your
+            Designed for sustainability and efficiency — Lunti brings all your
             project essentials under one green roof.
           </p>
         </div>

@@ -55,7 +55,7 @@ export const Hero = () => {
             </h1>
 
             <p className="mx-auto mt-8 max-w-2xl text-lg text-muted-foreground leading-relaxed">
-              Luntimeter transforms construction project management through
+              Lunti transforms construction project management through
               data-driven ESG tracking — unifying environmental, social, and
               governance performance into one intelligent, transparent system.
             </p>
