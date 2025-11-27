@@ -14,7 +14,7 @@ export const Features = () => {
   return (
     <section
       id="features"
-      className="py-20 sm:py-32 text-foreground relative overflow-hidden bg-transparent"
+      className="py-20 sm:py-32 text-foreground relative bg-transparent"
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
         {/* Header */}

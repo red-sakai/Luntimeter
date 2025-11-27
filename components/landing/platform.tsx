@@ -6,7 +6,7 @@ import { Card, CardDescription, CardHeader, CardTitle } from "../ui/card";
 
 export const Platform = () => {
   return (
-    <section className="relative overflow-hidden py-24 sm:py-32 text-foreground transition-colors duration-300 bg-transparent">
+    <section className="relative py-24 sm:py-32 text-foreground transition-colors duration-300 bg-transparent">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
         <motion.div
           className="max-w-3xl mx-auto text-center space-y-6 mb-20"

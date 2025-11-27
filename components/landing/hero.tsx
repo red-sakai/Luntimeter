@@ -42,7 +42,7 @@ const gridItems = [
 
 export const Hero = () => {
   return (
-    <section className="relative overflow-hidden bg-transparent">
+    <section className="relative bg-transparent">
       {/* --- CONTENT --- */}
       <div className="relative pt-32 pb-20 sm:pt-40 sm:pb-32">
         <div className="mx-auto max-w-7xl px-6 text-center">

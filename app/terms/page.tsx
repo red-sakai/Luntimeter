@@ -6,8 +6,8 @@ import { Logo } from "@/components/ui/logo";
 import { Background } from "@/components/ui/background";
 
 export const metadata: Metadata = {
-  title: "Terms of Service | VerdePM",
-  description: "Terms of Service for VerdePM project management platform",
+  title: "Terms of Service | Luntimeter",
+  description: "Terms of Service for Luntimeter project management platform",
 };
 
 export default function TermsPage() {
@@ -33,7 +33,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">1. Acceptance of Terms</h2>
                 <p className="text-muted-foreground">
-                  By accessing and using VerdePM ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
+                  By accessing and using Luntimeter ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
                 </p>
               </section>
 
@@ -68,7 +68,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">4. Project Data and Content</h2>
                 <p className="text-muted-foreground">
-                  You retain all rights to the project data and content you submit to VerdePM. By uploading content, you grant us a license to use, store, and process that content solely for the purpose of providing the Service to you. We do not claim ownership of your content.
+                  You retain all rights to the project data and content you submit to Luntimeter. By uploading content, you grant us a license to use, store, and process that content solely for the purpose of providing the Service to you. We do not claim ownership of your content.
                 </p>
               </section>
 
@@ -90,7 +90,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">6. ESG Reporting and AI Features</h2>
                 <p className="text-muted-foreground">
-                  VerdePM provides AI-powered ESG (Environmental, Social, and Governance) reporting features. While we strive for accuracy, AI-generated reports should be reviewed and verified by qualified professionals. We do not guarantee the completeness or accuracy of AI-generated content.
+                  Luntimeter provides AI-powered ESG (Environmental, Social, and Governance) reporting features. While we strive for accuracy, AI-generated reports should be reviewed and verified by qualified professionals. We do not guarantee the completeness or accuracy of AI-generated content.
                 </p>
               </section>
 
@@ -104,7 +104,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">8. Limitation of Liability</h2>
                 <p className="text-muted-foreground">
-                  In no event shall VerdePM or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the Service, even if VerdePM or a VerdePM authorized representative has been notified orally or in writing of the possibility of such damage.
+                  In no event shall Luntimeter or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the Service, even if Luntimeter or a Luntimeter authorized representative has been notified orally or in writing of the possibility of such damage.
                 </p>
               </section>
 
@@ -125,7 +125,7 @@ export default function TermsPage() {
               <section>
                 <h2 className="text-2xl font-semibold mb-4">11. Contact Information</h2>
                 <p className="text-muted-foreground">
-                  If you have any questions about these Terms of Service, please contact us at legal@verdepm.com
+                  If you have any questions about these Terms of Service, please contact us at legal@luntimeter.com
                 </p>
               </section>
             </div>

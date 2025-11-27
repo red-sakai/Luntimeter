@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <Background variant="subtle">
       <Header />
-      <main className="relative overflow-hidden">
+      <main className="relative">
         <Hero />
         <Platform />
         <ESG />

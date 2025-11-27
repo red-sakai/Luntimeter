@@ -6,7 +6,7 @@ import { CheckCircle2, Mail, Users, BarChart3 } from "lucide-react";
 
 export const Collaboration = () => {
   return (
-    <section className="text-foreground py-20 sm:py-32 relative overflow-hidden bg-transparent">
+    <section className="text-foreground py-20 sm:py-32 relative bg-transparent">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
         {/* Header Section */}
         <motion.div

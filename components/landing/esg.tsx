@@ -5,7 +5,7 @@ import { CheckCircle2, Leaf, Shield, Users } from "lucide-react";
 
 export const ESG = () => {
   return (
-    <section className="text-foreground py-20 sm:py-32 relative overflow-hidden bg-transparent">
+    <section className="text-foreground py-20 sm:py-32 relative bg-transparent">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
         {/* Header Section */}
         <div className="max-w-3xl mx-auto text-center space-y-6 mb-20">
